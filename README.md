@@ -1,5 +1,3 @@
-レビュー文章の感情を分類するAIシステムです
-
 # AI Sentiment Analyzer
 
 AIを使って文章の感情（ポジティブ / ネガティブ）を分析する  
@@ -12,6 +10,8 @@ AIを使って文章の感情（ポジティブ / ネガティブ）を分析す
 
 結果：
 "result": "positive"
+
+<img width="1420" height="862" alt="20260310" src="https://github.com/user-attachments/assets/88809fad-d203-4db9-bf34-6f4d6ab002bc" />
 
 ## セットアップ
 
